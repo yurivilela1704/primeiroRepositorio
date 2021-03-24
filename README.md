@@ -1,2 +1,2 @@
 # primeiroRepositorio
-Meu primeiro repositório para estudar git :).
+Meu primeiro repositório, apenas aprendendo! :D
